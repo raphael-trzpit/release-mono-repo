@@ -1,0 +1,8 @@
+{
+  "name": "@raphael-trzpit/dependant-service",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@raphael-trzpit/workspace-pkg": "workspace:*"
+  }
+}
