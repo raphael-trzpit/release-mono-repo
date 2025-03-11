@@ -2,6 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "plugins": ["node-workspace"],
   "separate-pull-requests": true,
+  "always-update": true,
+  "tag-separator": "@",
   "release-type": "node",
   "packages": {
     "packages/dependant-pkg": {

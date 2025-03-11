@@ -1,1 +1,7 @@
-{"services/independant-service":"1.0.0","packages/versioned-pkg":"1.0.0","packages/workspace-pkg":"1.0.0","packages/dependant-pkg":"1.0.1","services/dependant-service":"1.1.0"}
+{
+  "services/independant-service": "1.0.0",
+  "packages/versioned-pkg": "1.0.0",
+  "packages/workspace-pkg": "1.0.0",
+  "packages/dependant-pkg": "1.0.1",
+  "services/dependant-service": "1.1.0"
+}
