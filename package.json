@@ -4,8 +4,7 @@
   "private": true,
   "workspaces": [
     "packages/*",
-    "services/dependant-service",
-    "services/independant-service"
+    "services/*"
   ],
   "packageManager": "pnpm@10.2.0",
   "devDependencies": {
