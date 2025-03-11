@@ -5,6 +5,7 @@
   "always-update": true,
   "tag-separator": "@",
   "release-type": "node",
+  "last-release-sha": "09ec9c78d5241a5a335ea5bdafe4eaecbf1a54e1",
   "packages": {
     "packages/dependant-pkg": {
       "package-name": "@raphael-trzpit/dependant-pkg"
