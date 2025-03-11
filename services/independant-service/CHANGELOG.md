@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/raphael-trzpit/release-mono-repo/compare/independant-service@v1.1.1...independant-service@v1.1.2) (2025-03-11)
+
+
+### Bug Fixes
+
+* hotfix service ([ea7002f](https://github.com/raphael-trzpit/release-mono-repo/commit/ea7002f4f390b4689ccc8e80057f417682a6d4bf))
+
 ## [1.1.1](https://github.com/raphael-trzpit/release-mono-repo/compare/independant-service@v1.1.0...independant-service@v1.1.1) (2025-03-11)
 
 
