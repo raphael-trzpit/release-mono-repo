@@ -1,0 +1,22 @@
+{
+  "plugins": ["node-workspace"],
+  "separate-pull-requests": true,
+  "release-type": "node",
+  "packages": {
+    "packages/dependant-pkg": {
+      "package-name": "@raphael-trzpit/dependant-pkg"
+    },
+    "packages/versioned-pkg": {
+      "package-name": "@raphael-trzpit/versioned-pkg"
+    },
+    "packages/workspace-pkg": {
+      "package-name": "@raphael-trzpit/workspace-pkg"
+    },
+    "services/dependant-service": {
+      "package-name": "@raphael-trzpit/dependant-service"
+    },
+    "services/independant-service": {
+      "package-name": "@raphael-trzpit/independant-service"
+    }
+  }
+}
