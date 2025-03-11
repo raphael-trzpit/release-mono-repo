@@ -27,5 +27,6 @@
       "package-name": "@raphael-trzpit/independant-service",
       "separate-pull-requests": true
     }
-  }
+  },
+  "always-link-local": false
 }
