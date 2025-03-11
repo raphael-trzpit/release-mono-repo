@@ -7,6 +7,13 @@
 
 * service ([75b9a01](https://github.com/raphael-trzpit/release-mono-repo/commit/75b9a011abaa14408ec6fbfd057a988d8c835109))
 
+## [1.1.1](https://github.com/raphael-trzpit/release-mono-repo/compare/independant-service@v1.1.0...independant-service@v1.1.1) (2025-03-11)
+
+
+### Bug Fixes
+
+* service ([75b9a01](https://github.com/raphael-trzpit/release-mono-repo/commit/75b9a011abaa14408ec6fbfd057a988d8c835109))
+
 ## [1.1.0](https://github.com/raphael-trzpit/release-mono-repo/compare/independant-service-v1.0.0...independant-service@v1.1.0) (2025-03-11)
 
 
