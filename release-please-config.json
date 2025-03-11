@@ -4,7 +4,7 @@
     "type": "node-workspace",
     "merge": false
   }],
-  "separate-pull-requests": false,
+  "separate-pull-requests": true,
   "always-update": true,
   "tag-separator": "@",
   "release-type": "node",
