@@ -1,0 +1,8 @@
+{
+  "name": "@raphael-trzpit/dependant-pkg",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@raphael-trzpit/workspace-pkg": "workspace:*"
+  }
+}
