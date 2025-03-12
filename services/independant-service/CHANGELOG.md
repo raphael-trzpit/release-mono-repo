@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/raphael-trzpit/release-mono-repo/compare/independant-service@v1.1.1...independant-service@v1.2.0) (2025-03-12)
+
+
+### Features
+
+* add feature service ([92bfe88](https://github.com/raphael-trzpit/release-mono-repo/commit/92bfe88caf82313a77a195dc5d3d017ca9f15278))
+
+
+### Bug Fixes
+
+* hotfix service ([ef20d41](https://github.com/raphael-trzpit/release-mono-repo/commit/ef20d4100a2ae931f188cf76fbc317f5887409ee))
+
 ## [1.1.1](https://github.com/raphael-trzpit/release-mono-repo/compare/independant-service@v1.1.0...independant-service@v1.1.1) (2025-03-11)
 
 
